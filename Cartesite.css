@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div8 {
+  top: 27px;
+  left: 512px;
+  background: linear-gradient(180deg, rgba(10, 15, 11, 0), #7cf91b);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 3px dashed #000;
+  box-sizing: border-box;
+  width: 331px;
+  height: 155px;
+}
+.rectangle-div8,
+.rectangle-div9,
+.rectangle-icon {
+  position: absolute;
+  border-radius: 50px;
+}
+.rectangle-div9 {
+  top: 288px;
+  left: 982px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.25), #7cf91b);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 3px dashed #000;
+  box-sizing: border-box;
+  width: 331px;
+  height: 155px;
+}
+.rectangle-icon {
+  top: 570px;
+  left: 815px;
+  width: 339px;
+  height: 163px;
+}
+.rferences-div {
+  position: absolute;
+  top: 623px;
+  left: 888px;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-div10,
+.vector-icon1 {
+  position: absolute;
+  top: 179px;
+  left: 351px;
+  width: 634px;
+  height: 391.13px;
+}
+.rectangle-div10 {
+  top: 566px;
+  left: 250px;
+  border-radius: 50px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.25), #7cf91b);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 3px dashed #000;
+  box-sizing: border-box;
+  width: 331px;
+  height: 155px;
+}
+.formation-div1 {
+  position: absolute;
+  top: 615px;
+  left: 325px;
+  font-weight: 500;
+  display: inline-block;
+  width: 216px;
+  height: 70px;
+}
+.rectangle-div11 {
+  position: absolute;
+  top: 281px;
+  left: 20px;
+  border-radius: 50px;
+  background: linear-gradient(180deg, transparent, #7cf91b);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 3px dashed #000;
+  box-sizing: border-box;
+  width: 331px;
+  height: 155px;
+}
+.accueil-div1,
+.contact-div1,
+.tmoignages-div1 {
+  position: absolute;
+  top: 335px;
+  left: 102px;
+  font-weight: 500;
+  display: inline-block;
+  width: 161px;
+  height: 49px;
+}
+.accueil-div1,
+.tmoignages-div1 {
+  left: 1019px;
+  width: 291px;
+  height: 63px;
+}
+.accueil-div1 {
+  top: 76px;
+  left: 605px;
+  color: #f0f4f1;
+  width: 152px;
+  height: 65px;
+}
+.cartesite-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: #fff;
+  font-family: Inter;
+}
