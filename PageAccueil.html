@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./PageAccueil.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="page-accueil-div">
+      <div class="rectangle-div1"></div>
+      <img class="logo-1-icon" alt="" src="public/logo-1@2x.png" />
+      <div class="rectangle-div2"></div>
+      <div class="devenez-dveloppeur-web">Devenez développeur Web</div>
+      <div class="rectangle-div3"></div>
+      <div class="rectangle-div4"></div>
+      <div class="httpsteam-cloudafpabnbr-div">
+        https://TEAM-CLOUD.afpa/BN/BR/RF/GF
+      </div>
+      <img class="home-1-icon" alt="" src="public/home-1@2x.png" /><img
+        class="load-1-icon"
+        alt=""
+        src="public/load-1@2x.png"
+      /><img
+        class="fleche-droite-1-icon"
+        alt=""
+        src="public/flechedroite-1@2x.png"
+      /><img
+        class="fleche-droite-2-icon"
+        alt=""
+        src="public/flechedroite-2@2x.png"
+      />
+      <div class="rectangle-div5"></div>
+      <div class="formation-div" id="formationText">Formation</div>
+      <div class="accueil-div">Accueil</div>
+      <div class="tmoignages-div" id="tmoignagesText">Témoignages</div>
+      <div class="nos-references-div" id="nosReferencesText">
+        Nos References
+      </div>
+      <div class="contact-div" id="contactText">Contact</div>
+      <div class="group-div">
+        <div class="le-mtier-div">Le métier:</div>
+        <div class="qualification-div">Qualification:</div>
+        <div class="admission-div">Admission:</div>
+      </div>
+      <div class="group-div1">
+        <img
+          class="quel-est-le-meilleur-apero-900-icon"
+          alt=""
+          src="public/quelestlemeilleurapero900x570-1@2x.png"
+        />
+        <div class="rectangle-div6"></div>
+        <div class="une-formation-gratuite-et-rmu">
+          Une formation gratuite et rémunérée pour les demandeurs d’emploi
+        </div>
+        <div class="rectangle-div7"></div>
+        <div class="bouton-decouvrir-formation" id="boutonDecouvrirFormation">
+          Bouton decouvrir formation
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var formationText = document.getElementById("formationText");
+      if (formationText) {
+        formationText.addEventListener("click", function (e) {
+          window.location.href = "./FormationDWWM.html";
+        });
+      }
+      
+      var tmoignagesText = document.getElementById("tmoignagesText");
+      if (tmoignagesText) {
+        tmoignagesText.addEventListener("click", function (e) {
+          window.location.href = "./Temoignages.html";
+        });
+      }
+      
+      var nosReferencesText = document.getElementById("nosReferencesText");
+      if (nosReferencesText) {
+        nosReferencesText.addEventListener("click", function (e) {
+          window.location.href = "./Component.html";
+        });
+      }
+      
+      var contactText = document.getElementById("contactText");
+      if (contactText) {
+        contactText.addEventListener("click", function (e) {
+          window.location.href = "./Contact.html";
+        });
+      }
+      
+      var boutonDecouvrirFormation = document.getElementById(
+        "boutonDecouvrirFormation"
+      );
+      if (boutonDecouvrirFormation) {
+        boutonDecouvrirFormation.addEventListener("click", function (e) {
+          window.location.href = "./FormationDWWM.html";
+        });
+      }
+      </script>
+  </body>
+</html>
