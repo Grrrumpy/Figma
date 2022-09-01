@@ -1,0 +1,218 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div33 {
+  top: 368px;
+  left: 0;
+  background: linear-gradient(180deg, #008c95, rgba(0, 136, 154, 0));
+}
+.rectangle-div33,
+.rectangle-div34,
+.rectangle-div35 {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+}
+.rectangle-div34 {
+  top: 368px;
+  left: 533px;
+  background: linear-gradient(180deg, #ffd100, rgba(255, 233, 36, 0));
+}
+.rectangle-div35 {
+  top: 377px;
+  left: 1066px;
+  background: linear-gradient(180deg, #ff26d1, rgba(254, 145, 178, 0));
+}
+.alexis-garnier-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.tmoignage-a-cogolin-je-me {
+  margin: 0;
+  font-size: 12px;
+}
+.alexis-garnier-entreprise-wi,
+.les-stagiaires-temoignent {
+  position: absolute;
+  top: 494px;
+  left: 6px;
+  display: inline-block;
+  width: 287px;
+  height: 270px;
+  font-size: 11px;
+}
+.les-stagiaires-temoignent {
+  top: 247px;
+  left: 0;
+  font-size: 48px;
+  text-align: center;
+  width: 1369px;
+  height: 70px;
+}
+.si-je-devais {
+  margin: 0;
+}
+.greta-gremlin-entreprise-sii {
+  position: absolute;
+  top: 498px;
+  left: 1070px;
+  font-size: 10px;
+  display: inline-block;
+  width: 296px;
+  height: 273px;
+}
+.alexisgarnier-1-icon,
+.gremlins-2-figurine-greta-neca-icon,
+.icon {
+  position: absolute;
+  top: 398px;
+  left: 105px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.gremlins-2-figurine-greta-neca-icon,
+.icon {
+  left: 1180px;
+}
+.icon {
+  left: 638px;
+}
+.rectangle-div36,
+.rectangle-div37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 1366px;
+  height: 66px;
+}
+.rectangle-div37 {
+  top: 13px;
+  left: 213px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 1024px;
+  height: 40px;
+}
+.logo-2-icon2,
+.rectangle-div38 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+}
+.rectangle-div38 {
+  background-color: #78be20;
+  width: 1366px;
+  height: 100px;
+}
+.logo-2-icon2 {
+  width: 203px;
+  height: 107px;
+  object-fit: cover;
+}
+.formation-div6 {
+  top: 102px;
+  left: 470px;
+  color: #fff;
+  width: 126px;
+  cursor: pointer;
+}
+.accueil-div5,
+.formation-div6,
+.temoignages-div4 {
+  position: absolute;
+  display: inline-block;
+}
+.accueil-div5 {
+  top: 108px;
+  left: 226px;
+  width: 91px;
+  cursor: pointer;
+}
+.temoignages-div4 {
+  top: 102px;
+  left: 710px;
+  width: 160px;
+}
+.contact-div6,
+.nos-references-div4 {
+  position: absolute;
+  top: 108px;
+  display: inline-block;
+  cursor: pointer;
+}
+.nos-references-div4 {
+  left: 951px;
+  color: #fff;
+  width: 194px;
+}
+.contact-div6 {
+  left: 1220px;
+  width: 100px;
+}
+.antoine-germanique-entreprise {
+  position: absolute;
+  top: 495px;
+  left: 540px;
+  font-size: 10px;
+  display: inline-block;
+  width: 290px;
+  height: 273px;
+}
+.httpsteam-cloudafpabnbr-div4 {
+  position: absolute;
+  top: 18px;
+  left: 226px;
+  display: inline-block;
+  width: 706px;
+  height: 30px;
+}
+.home-1-icon4,
+.load-4-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.home-1-icon4 {
+  top: 18px;
+  left: 173px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.load-4-icon {
+  top: 22.01px;
+  left: 130.01px;
+  width: 27px;
+  height: 27px;
+}
+.fleche-droite-7-icon,
+.fleche-droite-8-icon {
+  position: absolute;
+  top: 19.01px;
+  left: 73.01px;
+  width: 39px;
+  height: 34px;
+  object-fit: cover;
+}
+.fleche-droite-8-icon {
+  top: 19px;
+  left: 26px;
+  width: 39.02px;
+  height: 34.02px;
+}
+.temoignages-div3 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Inter;
+}

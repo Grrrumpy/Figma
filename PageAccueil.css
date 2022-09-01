@@ -1,0 +1,216 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.logo-1-icon,
+.rectangle-div1 {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  width: 1366px;
+  height: 100px;
+}
+.logo-1-icon {
+  width: 206px;
+  height: 107px;
+  object-fit: cover;
+}
+.rectangle-div2 {
+  position: absolute;
+  top: 164px;
+  left: 0;
+  background-color: #fff;
+  width: 1366px;
+  height: 111px;
+}
+.devenez-dveloppeur-web {
+  position: absolute;
+  top: 197px;
+  left: 492px;
+  font-size: 36px;
+  display: inline-block;
+}
+.rectangle-div3,
+.rectangle-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 1366px;
+  height: 63px;
+}
+.rectangle-div4 {
+  top: 12px;
+  left: 228px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 1094px;
+  height: 38px;
+}
+.httpsteam-cloudafpabnbr-div {
+  position: absolute;
+  top: 19px;
+  left: 245px;
+  display: inline-block;
+  width: 706px;
+  height: 30px;
+}
+.home-1-icon,
+.load-1-icon {
+  position: absolute;
+  top: 16px;
+  left: 185px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.load-1-icon {
+  top: 19px;
+  left: 144px;
+  width: 27px;
+  height: 27px;
+}
+.fleche-droite-1-icon,
+.fleche-droite-2-icon {
+  position: absolute;
+  top: 16px;
+  left: 87px;
+  width: 39px;
+  height: 34px;
+  object-fit: cover;
+}
+.fleche-droite-2-icon {
+  top: 15.99px;
+  left: 39.99px;
+  width: 39.02px;
+  height: 34.02px;
+}
+.rectangle-div5 {
+  position: absolute;
+  top: 64px;
+  left: 206px;
+  background-color: #78be20;
+  width: 1159px;
+  height: 99px;
+}
+.accueil-div,
+.formation-div {
+  position: absolute;
+  top: 100px;
+  display: inline-block;
+}
+.formation-div {
+  left: 462px;
+  color: #fff;
+  cursor: pointer;
+}
+.accueil-div {
+  left: 257px;
+}
+.tmoignages-div {
+  top: 100px;
+  left: 706px;
+}
+.contact-div,
+.nos-references-div,
+.tmoignages-div {
+  position: absolute;
+  display: inline-block;
+  cursor: pointer;
+}
+.nos-references-div {
+  top: 103px;
+  left: 950px;
+  color: #fff;
+}
+.contact-div {
+  top: 102px;
+  left: 1223px;
+}
+.admission-div,
+.le-mtier-div,
+.qualification-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 161px;
+  height: 41px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.admission-div,
+.qualification-div {
+  top: 123px;
+  width: 210px;
+}
+.admission-div {
+  top: 206px;
+  width: 175px;
+}
+.group-div {
+  position: absolute;
+  top: 2887px;
+  left: -920px;
+  width: 210px;
+  height: 247px;
+  font-size: 32px;
+}
+.quel-est-le-meilleur-apero-900-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 492px;
+  object-fit: cover;
+}
+.rectangle-div6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #7a99ac;
+  width: 806px;
+  height: 84px;
+}
+.une-formation-gratuite-et-rmu {
+  position: absolute;
+  top: 28px;
+  left: 11px;
+  display: inline-block;
+}
+.rectangle-div7 {
+  position: absolute;
+  top: 202px;
+  left: 558px;
+  border-radius: 45px;
+  background-color: #418fde;
+  width: 379px;
+  height: 140px;
+}
+.bouton-decouvrir-formation {
+  position: absolute;
+  top: 258px;
+  left: 585px;
+  display: inline-block;
+  cursor: pointer;
+}
+.group-div1 {
+  position: absolute;
+  top: 274px;
+  left: 0;
+  width: 1366px;
+  height: 492px;
+}
+.page-accueil-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Inter;
+}
