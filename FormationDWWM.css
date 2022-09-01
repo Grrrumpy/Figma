@@ -1,0 +1,275 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div18 {
+  position: absolute;
+  top: 244px;
+  left: 0;
+  background-color: #d22630;
+  width: 720px;
+  height: 524px;
+}
+.rectangle-div19,
+.rectangle-div20 {
+  position: absolute;
+  top: 128px;
+  left: 720px;
+  background-color: #7a99ac;
+  width: 646px;
+  height: 640px;
+}
+.rectangle-div20 {
+  top: 165px;
+  left: -4px;
+  background-color: #fff;
+  width: 1366px;
+  height: 79px;
+}
+.la-formation-dwwm,
+.le-mtier-div1 {
+  position: absolute;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.la-formation-dwwm {
+  top: 185px;
+  left: 485px;
+  font-size: 40px;
+  width: 389px;
+  height: 48px;
+  -webkit-text-stroke: 2px #000;
+}
+.le-mtier-div1 {
+  top: 271px;
+  left: 13px;
+  font-size: 32px;
+  width: 151px;
+  height: 39px;
+}
+.selon-les-tablissements {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.alternance-avec-des {
+  margin: 0;
+}
+.le-dveloppeur-web-la-dvelo,
+.selon-les-tablissements-et-la {
+  position: absolute;
+  top: 331px;
+  left: 763px;
+  display: inline-block;
+  width: 460px;
+  height: 117px;
+}
+.le-dveloppeur-web-la-dvelo {
+  top: 322px;
+  left: 13px;
+  width: 691px;
+  height: 65px;
+}
+.admission-div1,
+.qualification-div1,
+.titre-professionnel-de-niveau {
+  position: absolute;
+  top: 438px;
+  left: 13px;
+  display: inline-block;
+  width: 539px;
+  height: 16px;
+}
+.admission-div1,
+.qualification-div1 {
+  top: 388px;
+  font-size: 32px;
+  width: 198px;
+  height: 39px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.admission-div1 {
+  top: 466px;
+  width: 165px;
+}
+.prrequis-tre-titulaire-du-ba {
+  position: absolute;
+  top: 521px;
+  left: 18px;
+  display: inline-block;
+  width: 665px;
+  height: 150px;
+}
+.accs-la-formation-dossier-d,
+.dure-div,
+.les-modalits-pdagogiques {
+  position: absolute;
+  top: 671px;
+  left: 13px;
+  display: inline-block;
+  width: 355px;
+  height: 51px;
+}
+.dure-div,
+.les-modalits-pdagogiques {
+  top: 275px;
+  left: 730px;
+  font-size: 32px;
+  width: 443px;
+  height: 39px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.dure-div {
+  top: 464px;
+  left: 743px;
+  width: 100px;
+}
+.mois-environ-1-190-heures,
+.notre-pdagogie-div {
+  position: absolute;
+  top: 513px;
+  left: 763px;
+  display: inline-block;
+  width: 194px;
+  height: 17px;
+}
+.notre-pdagogie-div {
+  top: 546px;
+  left: 743px;
+  font-size: 32px;
+  width: 263px;
+  height: 39px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.notre-pdagogie-privilgie-la {
+  position: absolute;
+  top: 612px;
+  left: 759px;
+  display: inline-block;
+  width: 545px;
+  height: 101px;
+}
+.rectangle-div21,
+.rectangle-div22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 1366px;
+  height: 63px;
+}
+.rectangle-div22 {
+  top: 12px;
+  left: 228px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 1094px;
+  height: 38px;
+}
+.httpsteam-cloudafpabnbr-div2 {
+  position: absolute;
+  top: 19px;
+  left: 245px;
+  font-size: 24px;
+  display: inline-block;
+  width: 706px;
+  height: 30px;
+}
+.logo-2-icon1,
+.rectangle-div23 {
+  position: absolute;
+  top: 63px;
+  left: 0;
+}
+.logo-2-icon1 {
+  width: 206px;
+  height: 107px;
+  object-fit: cover;
+}
+.rectangle-div23 {
+  background-color: #78be20;
+  width: 1366px;
+  height: 100px;
+}
+.formation-div4 {
+  position: absolute;
+  top: 99px;
+  left: 477px;
+  font-size: 24px;
+  color: #fff;
+  display: inline-block;
+}
+.accueil-div3 {
+  top: 105px;
+  left: 229px;
+}
+.accueil-div3,
+.contact-div4,
+.nos-references-div2,
+.temoignages-div1 {
+  position: absolute;
+  font-size: 24px;
+  display: inline-block;
+  cursor: pointer;
+}
+.temoignages-div1 {
+  top: 99px;
+  left: 720px;
+}
+.contact-div4,
+.nos-references-div2 {
+  top: 105px;
+}
+.nos-references-div2 {
+  left: 964px;
+  color: #fff;
+}
+.contact-div4 {
+  left: 1237px;
+}
+.home-1-icon2,
+.load-2-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.home-1-icon2 {
+  top: 16px;
+  left: 185px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.load-2-icon1 {
+  top: 19.01px;
+  left: 145.01px;
+  width: 27px;
+  height: 27px;
+}
+.fleche-droite-3-icon1,
+.fleche-droite-4-icon1 {
+  position: absolute;
+  top: 16.01px;
+  left: 88.01px;
+  width: 39px;
+  height: 34px;
+  object-fit: cover;
+}
+.fleche-droite-4-icon1 {
+  top: 16px;
+  left: 41px;
+  width: 39.02px;
+  height: 34.02px;
+}
+.formation-dwwm-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Inter;
+}
